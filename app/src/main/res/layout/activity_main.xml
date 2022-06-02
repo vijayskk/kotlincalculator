@@ -239,7 +239,7 @@
                 android:text="."
                 android:textSize="@dimen/fontsz"
                 android:background="@color/btnclr"
-                android:onClick="onDigit"
+                android:onClick="onDecimal"
                 />
             <!--Button-->
             <androidx.appcompat.widget.AppCompatButton
@@ -301,7 +301,7 @@
                 android:text="="
                 android:textSize="40sp"
                 android:background="@color/btnclr"
-                android:onClick="onSymbol"
+                android:onClick="onEquals"
                 />
 
 
